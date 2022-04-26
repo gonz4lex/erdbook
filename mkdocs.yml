@@ -51,8 +51,8 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-  - git-revision-date-localized:
-      type: timeago
-  - minify:
-      minify_html: true
-  - section-index
+  # - git-revision-date-localized:
+  #     type: timeago
+  # - minify:
+  #     minify_html: true
+  # - section-index
