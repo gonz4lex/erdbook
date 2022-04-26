@@ -1,7 +1,9 @@
 site_name: Erdbook
 site_description: Elden Ring Knowledge Base
 site_author: gonz4lex
-site_url: 
+site_url: https://alexgonzalezc.dev/erdbook
+repo_name: gonz4lex/erdbook
+repo_url: https://github.com/gonz4lex/erdbook
 
 theme:
     name: 'material'
