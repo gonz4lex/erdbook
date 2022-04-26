@@ -1,0 +1,1 @@
+Referenced in a note sold by [[Merchant Kalé]] and located just west of [[Agheel Lake]]. An underground cellar inside the ruins is guarded by a [[Mad Pumpkin Head]].

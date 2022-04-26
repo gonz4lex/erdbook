@@ -1,0 +1,1 @@
+A destroyed fort that once belonged to [[Kenneth Haight, Limgrave Heir]], occupied by knights.

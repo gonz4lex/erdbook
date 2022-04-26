@@ -1,0 +1,1 @@
+A faint howling can be heard near the [[Mistwood Ruins]]. After speaking with [[Merchant Kalé]], perform the snap gesture he will teach you, and Blaidd will appear nearby. 

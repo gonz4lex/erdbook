@@ -1,0 +1,1 @@
+Merchant in the [[Church of Elleh]]. He knows [[Blaidd, the Half Wolf]] and will teach you how to snap your finger to bring Blaidd's attention.

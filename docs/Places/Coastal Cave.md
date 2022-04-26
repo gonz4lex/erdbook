@@ -1,0 +1,1 @@
+A cave on the shore to the south of [[The First Step]] in [[Limgrave]]. In its depths, a narrow tunnel runs underwater, leading further south and emerging back into the surface in a small island where the [[Church of Dragon Communion]] is located.

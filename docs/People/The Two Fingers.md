@@ -1,0 +1,1 @@
+The Two Fingers lay in a chamber inside [[The Roundtable Hold]], and can communicate with the Greater Will to offer the guidance of grace.

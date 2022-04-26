@@ -1,0 +1,1 @@
+A temple in the [[Caelid Wilds]] inhabited by [[Gurranq, Beast Clergyman]].

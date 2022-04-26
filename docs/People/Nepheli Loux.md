@@ -1,0 +1,1 @@
+A warrior first located in [[Stormveil Castle]], where she intends to challenge Godrick. She is the adoptive daughter of [[Gideon Ofnir, the All-Knowing]].
